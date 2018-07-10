@@ -1,0 +1,8 @@
+name: Your New Jekyll Site
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
+exclude: ["node_modules", "gulpfile.js", "package.json"]
